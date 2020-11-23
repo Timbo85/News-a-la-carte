@@ -131,3 +131,6 @@ dmypy.json
 # Mac stuff
 .DS_Store
 .virtual_documents
+
+#Data
+data/
